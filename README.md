@@ -1,6 +1,6 @@
 # cinescoop_uasmobile
 
-A new Flutter project.
+flutter mobile "film" untuk memenuhi tugas UAS Mobile programming dengan menggunakan arsitektur MVVM. 
 
 ## Getting Started
 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769354509306",
+    "project_id": "cinescoopapp-50141",
+    "storage_bucket": "cinescoopapp-50141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769354509306:android:6d472227a881ee68ee1243",
+        "android_client_info": {
+          "package_name": "com.example.cinescoopApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTp3RDCAoA2QE6QbAqo42vYGTfR2GFs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
